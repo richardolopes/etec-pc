@@ -1,21 +1,30 @@
 # Programação de Computadores - ETEC ZL
 # 2018.02.27
 Aula3
+- Exercício 3 - Exemplo de String
 
 # 2018.03.06
 Projeto Eclipse
-- ProjetoTOO
-- Aula4
+- ProjetoTOO - Exemplo carro
+- Aula4 - Operações matemáticas
 
 # 2018.03.08
 Ex Introdução
+- Slide 15 - Criação de variáveis
+- Slide 18 - Declaração de variáveis
+- Slide 27 - Operações matemáticas
+- Slide 37 - If
+- Slide 38 - Exibir em ordem alfabética
+- Slide 48 - Operações matemáticas
 
 # 2018.03.09
 Atributos 
-ProjetoTOO
+- Atributos estáticos
 
 # 2018.03.16
-Projeto Animais
+Projeto Animais 
+- Herança
 
 # 2018.03.29
-Ex Aula2 - Prof Carlos
+Ex Aula2 
+- Vetores
