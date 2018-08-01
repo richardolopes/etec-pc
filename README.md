@@ -33,7 +33,6 @@ PrimeiraJanela
 - JButton
 
 # 2018.03.29
-Calculadora
 - Calculadora
 
 Ex Aula2 
@@ -59,3 +58,10 @@ Interface Gráfica
 # 2018.05.04
 Interface Gráfica
 - InternalFrame
+
+# 2018.07.27
+Conexão com banco de dados
+
+# 2018.07.31
+Conexão com banco de dados
+- CRUD
