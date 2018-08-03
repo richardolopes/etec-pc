@@ -5,6 +5,7 @@ public class Alunos {
 	private String endereco;
 	private String bairro;
 	private int cep;
+	private Integer id;
 	
 	public String getNome() {
 		return nome;
@@ -30,5 +31,10 @@ public class Alunos {
 	public void setCep(int cep) {
 		this.cep = cep;
 	}
-
+	public Integer getId() {
+		return id;
+	}
+	public void setId(Integer id) {
+		this.id = id;
+	}
 }

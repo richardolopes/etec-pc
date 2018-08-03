@@ -11,7 +11,8 @@ public class AlunosExec {
 	public static void main(String[] args) {
 		Alunos alunos = new Alunos();
 		try {
-			alunos.setNome("Richard de Oliveira Lopes");
+			alunos.setId(8);
+			alunos.setNome("Richard");
 			alunos.setEndereco("Av Águia de Haia, 2600");
 			alunos.setBairro("Jd São Nicolau");
 			alunos.setCep(3811111);
@@ -21,7 +22,9 @@ public class AlunosExec {
 			AlunosJdbcDAO alunosJdbcDao = new AlunosJdbcDAO(connection);
 			
 			//alunosJdbcDao.salvar(alunos);
-			alunosJdbcDao.deletar(3);
+			//alunosJdbcDao.deletar(3);
+			//alunosJdbcDao.listar();
+			alunosJdbcDao.alterar(alunos);
 			
 		} catch(Exception e) {
 			e.printStackTrace();
